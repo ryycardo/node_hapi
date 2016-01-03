@@ -1,0 +1,23 @@
+{
+  "name": "HapiApp",
+  "version": "1.0.0",
+  "description": "Aplicacao exemplo utilizando o Hapi.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryycardo/node_hapi.git"
+  },
+  "author": "Ricardo Barbosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryycardo/node_hapi/issues"
+  },
+  "homepage": "https://github.com/ryycardo/node_hapi#readme",
+  "dependencies": {
+    "hapi": "^11.1.4"
+  }
+}
